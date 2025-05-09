@@ -6,3 +6,11 @@
 body{
     background-color: antiquewhite;
 }
+
+#box{
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+    scale: 0.5;
+    transition: 0.5s ease-in-out;
+}
